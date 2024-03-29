@@ -1,2 +1,2 @@
 # Registration-Form
-This is a Registration Form which collects information through HTML and stores it in database (MongoDB) 
+This is a Registration Form which collects information from the client and stores it in the database(MongoDB).
